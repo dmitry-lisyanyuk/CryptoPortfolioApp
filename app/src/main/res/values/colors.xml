@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FFC700</color>
+
+    <color name="primaryColor">#FFC700</color>
+
+    <color name="onColor80">#CC0E1114</color>
+    <color name="onColor40">#660E1114</color>
+</resources>

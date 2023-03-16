@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Batro</string>
+
+    <string name="main_portfolio_title">Portfolio</string>
+    <string name="main_portfolio_empty_list">You have not added any cryptocurrencies to \n your portfolio</string>
+    <string name="main_portfolio_empty_list_add_transaction_button">Add</string>
+    <string name="main_portfolio_add_transaction_button">Add transaction</string>
+
+
+    <string name="main_portfolio_add_transaction_dialog_title">Add Portfolio</string>
+    <string name="main_portfolio_add_transaction_dialog_coin_title">Crypto currency</string>
+    <string name="main_portfolio_add_transaction_dialog_coin_subtitle">BTC, ETH, USDT etc.</string>
+    <string name="main_portfolio_add_transaction_dialog_lp_title">Liquidity pool token</string>
+    <string name="main_portfolio_add_transaction_dialog_lp_subtitle">Token of pair between two cryptocurrencies</string>
+
+
+    <string name="add_coin_transaction_title">Add Transaction</string>
+    <string name="add_coin_transaction_input_amount">Amount</string>
+    <string name="add_coin_transaction_input_price">Price</string>
+    <string name="add_coin_transaction_input_note">Note</string>
+    <string name="add_coin_transaction_create_transaction_button">Add</string>
+
+    <string name="edit_coin_transaction_title">Edit Transaction</string>
+    <string name="edit_coin_transaction_input_amount">Amount</string>
+    <string name="edit_coin_transaction_input_price">Price</string>
+    <string name="edit_coin_transaction_input_note">Note</string>
+    <string name="edit_coin_transaction_save_transaction_button">Save</string>
+    <string name="edit_coin_transaction_delete_transaction_button">Delete transaction</string>
+
+    <string name="add_lp_transaction_title">Add LP Transaction</string>
+    <string name="add_lp_transaction_select_platform_holder">Select Platform</string>
+    <string name="add_lp_transaction_input_lp_amount">LP Token Amount</string>
+    <string name="add_lp_transaction_input_initial_coin_amount">Initial %s Amount</string>
+    <string name="add_lp_transaction_create_transaction_button">Add</string>
+
+    <string name="edit_lp_transaction_title">Edit Transaction</string>
+    <string name="edit_lp_transaction_input_lp_amount">LP Token Amount</string>
+    <string name="edit_lp_transaction_input_initial_coin_amount">Initial %s Amount</string>
+    <string name="edit_lp_transaction_save_transaction_button">Save</string>
+    <string name="edit_lp_transaction_delete_transaction_button">Delete transaction</string>
+
+
+
+    <string name="select_coin_title">Select currency</string>
+    <string name="select_coin_item_holder">Select currency</string>
+    <string name="select_lp_token_title">Select LP Token</string>
+    <string name="select_lp_token_item_holder">Select LP Token</string>
+
+    <string name="select_select_platform_title">Select Platform</string>
+
+
+    <string name="base_transactions">Transactions</string>
+
+    <string name="base_total">Total</string>
+    <string name="base_total_of">Total %s</string>
+    <string name="base_total_worth">Total Worth</string>
+    <string name="base_avg_buy">Avg Buy</string>
+    <string name="base_current_price">Current price</string>
+    <string name="base_add_transaction">Add transaction</string>
+    <string name="base_search">Search</string>
+
+
+</resources>
